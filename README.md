@@ -1,4 +1,4 @@
-# NodeJS with MySQL Tutorial by bossROD
+# Node.js with MySQL Tutorial by bossROD
 
 ## Getting Started:
 
